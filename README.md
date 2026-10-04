@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm [forback] 👋
 
-<!--
-**ForeverBack/ForeverBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Korea University.
 
-Here are some ideas to get you started:
+I enjoy turning everyday problems into practical software ideas and exploring how AI can be used to build useful products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- AI-powered applications
+- Software development
+- Product & service design
+- Problem solving
+
+## Currently Learning
+- Python
+- C
+- Discrete Mathematics
+- Algorithms
+
+## Current Project
+### DueMate
+An AI-powered assistant that turns complex notices and announcements into actionable tasks and schedules.
+
+Currently being developed for a hackathon.
