@@ -1,4 +1,4 @@
-# Hi, I'm [forback] 👋
+# Hi, I'm [Forback] 👋
 
 Computer Science student at Korea University.
 
